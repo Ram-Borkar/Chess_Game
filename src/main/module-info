@@ -1,0 +1,6 @@
+module code {
+    requires javafx.controls;
+    requires javafx.fxml;
+
+    exports code.gui;
+}
